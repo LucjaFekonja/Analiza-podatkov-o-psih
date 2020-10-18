@@ -10,7 +10,7 @@ Za vsakega psa bom zajela:
 - značilen karakter
 - negovanje 
 - potrebna energija
-- hitrost učenja in temperament
+- temperament
 - splošnega opisa zunanjosti
 
 Delovne hipoteze:
