@@ -9,12 +9,12 @@ Za vsakega psa bom zajela:
 - višino, težo, povprečno življensko dobo
 - značilen karakter
 - negovanje 
-- potrebna energija
+- hitrost učenja
 - temperament
 - splošnega opisa zunanjosti
 
 Delovne hipoteze:
 - Ali ima negovanje vpliv na popularnost?
 - Sta višina in teža povezani z življensko dobo psa?
-- Ima temperament vpliv na energijo, ki jo potrebuje?
+- Ima temperament vpliv na hitrost učenja?
 - Lahko iz splošnega opisa zunanjosti sklepamo na karakter?
